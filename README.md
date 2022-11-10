@@ -1,7 +1,7 @@
-# Challange 01 
+<h1> Challange 01</h1>
 Bootcamp challenge 01 in HTML, CSS, Git Code Refactor
 
-## The challange 
+<h2>The challange </h2>
 modify a start up code and refactor it without changin what it does to meet a certain set of standards or implement a new technology.
 
 ## User Story
@@ -33,7 +33,9 @@ modify a start up code and refactor it without changin what it does to meet a ce
 ## Links to the challange
 <br>
 The challange was upload to Github at the following repository:<br>
-[GitHub Repo](https://github.com/Ash0422/challange-01)<br>
+GitHub Repo(https://github.com/Ash0422/challange-01)<br>
+<br>
+deployed application: (https://ash0422.github.io/challange-01/)
 
 
 
