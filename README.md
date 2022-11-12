@@ -30,6 +30,20 @@ modify a start up code and refactor it without changin what it does to meet a ce
 <br>
 <img src="./assets/images/screenshot.png">
 
+## The modification I mmade:
+
+<ul>
+<li>Structure and Descriptive comments were added: header, main content, aside content, page footer. <br></li>
+<li>change title to "Horiseon | Social Solution Services"<br></li>
+<li>Change the -div- to -header- </li>
+<li>Changed the -div- to -nav- in HTML, and changed .header nav in CSS.<br></li>
+<li>Added a -main- tag in the main conetents<br></li>
+<li>change the -div- in the footer to -footer-<br></li>
+<li>Changed the -div- for benifits to -aside- <br></li>
+<li>added -alt- properties and description for each image<br></li>
+</ul>
+
+
 ## Links to the challange
 <br>
 The challange was upload to Github at the following repository:<br>
